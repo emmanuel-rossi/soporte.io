@@ -19,13 +19,16 @@ box-shadow: 0 0 10px rgba(0, 0, 0, 0, 0.05);
 }
 
 header {
-background-color: #0077cc;
+font-size: 2,5rem;
+background-color: #ffffff;
 padding: 20px 0;
-color: white;
+color: rgb(0, 0, 0);
 text-align: center;
 }
 
 .header-content {
+font-size: 1.5rem;
+color: white;
 display: flex;
 flex-direction: column;
 align-items: center;
@@ -38,10 +41,12 @@ margin-bottom: 10px;
 
 .nav-links {
 list-style: none;
+color: #ccc;
 display: flex;
 gap: 30px;
 justify-content: center;
 padding: 0;
+
 }
 
 .nav-links {
@@ -89,6 +94,12 @@ color:white;
 text-align: center;
 padding: 20px;
 }
+
+
+
+
+
+
 
 
 
